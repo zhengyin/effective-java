@@ -11,6 +11,7 @@
 
     <modules>
         <module>effective-java-chapter2</module>
+        <module>effective-java-chapter3</module>
     </modules>
 
     <build>

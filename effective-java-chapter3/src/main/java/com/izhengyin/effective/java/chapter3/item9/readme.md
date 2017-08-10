@@ -1,0 +1,1 @@
+# 覆盖equals总要覆盖hashCode
